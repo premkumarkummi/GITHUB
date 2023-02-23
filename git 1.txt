@@ -1,0 +1,69 @@
+AGENDA
+
+1.What is Version Controlling
+2.What is Git
+3.Types of Version Controlling
+4.What is git bash?
+5.Configure Git
+6.Types of files
+7.git init Observations
+8.How to move files to staging area
+9.How to know the status of the files
+10.How to move file to local repository
+11.How to see list of commits
+
+
+
+
+copy------replace destination data from source data
+          syntax-- cp sourcefile destination file
+
+move----- rename the file
+          syntax--- mv sourcefile destination file
+
+more------ to view a content of file one page at a time press space bar to go to
+           the next page...i.e only scroll down
+           syntax---more filename
+
+less----- it uses same functions as Vi editor
+          we can navigate up and down
+
+
+
+
+
+
+g:\project..........working directory
+
+git init
+3 types of files
+1. untracked files
+2. stagged files
+3. committed files
+
+1.git init
+2.git config --global user.name "kiran"
+3.git conig --global user.email "kiran.my.sin@gmail.com"
+4.git status
+5.git add filename
+6.git add .
+7 git commit -m "first commit"
+8.git log
+9.git log -- oneline
+
+
+
+
+
+
+
+
+
+
+
+          we can search a string (use key word to search)
+          syntax---- less filename
+
+
+
+
